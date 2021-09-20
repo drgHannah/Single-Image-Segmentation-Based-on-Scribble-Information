@@ -7,10 +7,10 @@ This repository is the official implementation of [Learning or Modelling? An Ana
 on ...**
 <table>
    <tr>
-      <td><img src="https://github.com/drgHannah/Scribblebased-Image-Segmentation/blob/main/sample-images/43-gt.png" width = 360px></td>
-      <td><img src="https://github.com/drgHannah/Scribblebased-Image-Segmentation/blob/main/sample-images/43-rgb.png" width = 360px></td>
-      <td><img src="https://github.com/drgHannah/Scribblebased-Image-Segmentation/blob/main/sample-images/43-grad-xy-reg.png" width = 360px></td>
-      <td><img src="https://github.com/drgHannah/Scribblebased-Image-Segmentation/blob/main/sample-images/43-grad-feat-reg.png"  width = 360px></td>
+      <td><img src="https://github.com/drgHannah/Single-Image-Segmentation-Based-on-Scribble-Information/blob/main/sample-images/43-gt.png" width = 360px></td>
+      <td><img src="https://github.com/drgHannah/Single-Image-Segmentation-Based-on-Scribble-Information/blob/main/sample-images/43-rgb.png" width = 360px></td>
+      <td><img src="https://github.com/drgHannah/Single-Image-Segmentation-Based-on-Scribble-Information/blob/main/sample-images/43-grad-xy-reg.png" width = 360px></td>
+      <td><img src="https://github.com/drgHannah/Single-Image-Segmentation-Based-on-Scribble-Information/blob/main/sample-images/43-grad-feat-reg.png"  width = 360px></td>
   </tr>
    <tr>
       <td>  </td>
