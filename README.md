@@ -9,7 +9,7 @@ on ...**
    <tr>
       <td><img src="https://github.com/drgHannah/Scribblebased-Image-Segmentation/tree/main/sample-images/43-gt.png" width = 360px></td>
       <td><img src="https://github.com/drgHannah/Scribblebased-Image-Segmentation/tree/main/sample-images/43-rgb.png" width = 360px></td>
-      <td><img src="https://github.com/drgHannah/Scribblebased-Image-Segmentation/tree/main/sample-images/43-grad-xy-reg.png" width = 360px></td>
+      <td><img src="https://github.com/drgHannah/Scribblebased-Image-Segmentation/blob/main/sample-images/43-grad-xy-reg.png" width = 360px></td>
       <td><img src="https://github.com/drgHannah/Scribblebased-Image-Segmentation/blob/main/43-grad-feat-reg.png"  width = 360px></td>
   </tr>
    <tr>
